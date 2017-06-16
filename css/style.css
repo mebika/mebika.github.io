@@ -1,0 +1,22 @@
+h1{ text-align: center; }
+
+p{ text-align: center; }
+
+li a {
+	font-family: Arial;
+	color: blue;
+	font-size: 25px;
+}
+
+#recept {
+
+	color:white;
+	margin-left:59%;
+ 	transform: translateX(-41%);
+ 	font-size: 23px;
+ 	font-family: 'Indie Flower', cursive;
+
+}
+
+body {
+    background-color: lightblue; }
